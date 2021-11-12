@@ -6,6 +6,10 @@
     border-color: rgba(0, 0, 0, 0);
 
     /* visual */
+    padding-bottom: 60px;
+    overflow: auto;
+    height: 100%;
+    display: block;
     background: #FFD872;
 
     /* typography */
